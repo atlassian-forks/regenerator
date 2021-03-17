@@ -28,9 +28,9 @@
     "test": "test/run.sh"
   },
   "dependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/runtime": "^7.8.4",
-    "@babel/types": "^7.8.3",
+    "@babel/core": "^7.13.1",
+    "@babel/runtime": "^7.13.6",
+    "@babel/types": "^7.13.0",
     "commoner": "^0.10.8",
     "private": "^0.1.8",
     "recast": "^0.18.7",
